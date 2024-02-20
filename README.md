@@ -24,7 +24,7 @@ I am a junior in Computer Science and Artificial Intelligence at Cairo Universit
     <a href="https://t.me/mohamedamgad1">
         <img height="50" src="./Icons/Communication/telegram.svg">
     </a>
-    <a href="mailto:dev.Mohamed.Amgad@protonmail.com">
+    <a href="mailto:dev.mohamedamgad@gmail.com">
         <img height="50" src="./Icons/Communication/gmail.svg">
     </a>
 </p>
