@@ -1,6 +1,6 @@
 # <p align="center">Mohamed Amgad Mostafa</p>
 
-I am a sophomore in Computer Science and Artificial Intelligence at Cairo University (expected graduation: 2025).
+I am a junior in Computer Science and Artificial Intelligence at Cairo University (expected graduation: 2025).
 
 ## - I’m currently learning:
 
